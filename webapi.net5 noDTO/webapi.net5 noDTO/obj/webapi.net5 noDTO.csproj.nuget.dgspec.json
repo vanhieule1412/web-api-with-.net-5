@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SourceCode\\webapi.net5 noDTO\\webapi.net5 noDTO\\webapi.net5 noDTO.csproj": {}
+    "D:\\SourceCode\\practice\\webapiwith.net5\\webapi.net5 noDTO\\webapi.net5 noDTO\\webapi.net5 noDTO.csproj": {}
   },
   "projects": {
-    "D:\\SourceCode\\webapi.net5 noDTO\\webapi.net5 noDTO\\webapi.net5 noDTO.csproj": {
+    "D:\\SourceCode\\practice\\webapiwith.net5\\webapi.net5 noDTO\\webapi.net5 noDTO\\webapi.net5 noDTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SourceCode\\webapi.net5 noDTO\\webapi.net5 noDTO\\webapi.net5 noDTO.csproj",
+        "projectUniqueName": "D:\\SourceCode\\practice\\webapiwith.net5\\webapi.net5 noDTO\\webapi.net5 noDTO\\webapi.net5 noDTO.csproj",
         "projectName": "webapi.net5 noDTO",
-        "projectPath": "D:\\SourceCode\\webapi.net5 noDTO\\webapi.net5 noDTO\\webapi.net5 noDTO.csproj",
+        "projectPath": "D:\\SourceCode\\practice\\webapiwith.net5\\webapi.net5 noDTO\\webapi.net5 noDTO\\webapi.net5 noDTO.csproj",
         "packagesPath": "C:\\Users\\KID\\.nuget\\packages\\",
-        "outputPath": "D:\\SourceCode\\webapi.net5 noDTO\\webapi.net5 noDTO\\obj\\",
+        "outputPath": "D:\\SourceCode\\practice\\webapiwith.net5\\webapi.net5 noDTO\\webapi.net5 noDTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
